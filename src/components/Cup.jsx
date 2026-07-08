@@ -32,7 +32,7 @@ const Cup = () => {
   return (
     <div className='h-screen justify-center items-center flex flex-col'>
         <h1>
-            do you Love messi 
+            do you Love ronaldo
         </h1>
         <img src={message}
          alt="" />
